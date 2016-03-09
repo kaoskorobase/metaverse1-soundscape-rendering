@@ -10,9 +10,7 @@ Documentation is scarce; if you have any questions or suggestions, please submit
 
 ## Documentation
 
-General project documentation, a demo video and a list of related publications can be found [on the MTG website](http://mtg.upf.edu/technologies/soundscapes).
-
-Additionally, there is some developer and user documentation in the [doc](/doc) directory.
+General project documentation, a demo video and a list of related publications can be found [on the MTG website](http://mtg.upf.edu/technologies/soundscapes). Additionally, there is some developer and user documentation in the [doc](/doc) directory.
 
 Here's a short repository overview:
 
