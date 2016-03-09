@@ -6,10 +6,21 @@ This repository contains code and documentation for the soundscape rendering app
 
 The system is a soundscape composition and rendering environment based on a generative graph based model of sound concepts. The code is provided mostly for archival and documentation purposes, in case it is interesting and useful for someone.
 
-Documentation is scarce; if you have any questions or suggestions, please submit an issue or ask one of the former project members [@jjaner](https://github.com/jjaner) or [@kaoskorobase](https://github.com/kaoskorobase).
+Documentation is scarce; if you have any questions or suggestions, please submit an issue in our [issue tracker](/issues)!
 
 ## Documentation
 
 General project documentation, a demo video and a list of related publications can be found [on the MTG website](http://mtg.upf.edu/technologies/soundscapes).
 
 Additionally, there is some developer and user documentation in the [doc](/doc) directory.
+
+Here's a short repository overview:
+
+| Directory                | Content                                           |
+| -------------------------|---------------------------------------------------|
+| `config`                 | Darkice and Puppet configuration files            |
+| `doc`                    | Developer and user documentation                  |
+| `rendering`              | Soundscape rendering application (SuperCollider)  |
+| `tools/GridProxy`        | SecondLife-Soundscape position relay utility      |
+| `tools/java`             | OpenSoundControl sending utility (Java)           |
+| `webapp`                 | Soundscape web API and UDP relay (Twisted/Python) |
